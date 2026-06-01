@@ -1,0 +1,6 @@
+# M. Mangilal Sweets — robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://mangilalsweets.com/sitemap.xml
