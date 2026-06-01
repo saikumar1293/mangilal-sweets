@@ -169,7 +169,7 @@ document.addEventListener('DOMContentLoaded', () => {
         + `Inquiry: ${data.inquiry || 'General'}\n`
         + `Message: ${data.message || 'N/A'}`;
 
-      const whatsappUrl = `https://wa.me/919876543210?text=${encodeURIComponent(message)}`;
+      const whatsappUrl = `https://wa.me/918523014445?text=${encodeURIComponent(message)}`;
       window.open(whatsappUrl, '_blank');
 
       // Visual feedback
@@ -208,7 +208,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const badge = document.querySelector('.hero__badge-text');
   if (badge) {
     const texts = [
-      'Narsipatnam\'s Favourite Sweets Since 1979',
+      'Narsipatnam\'s Favourite Sweets Since 1969',
       'Fresh Bakery Items Crafted Daily',
       '150+ Happy Customers & Counting'
     ];
