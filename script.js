@@ -208,9 +208,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const badge = document.querySelector('.hero__badge-text');
   if (badge) {
     const texts = [
-      'Narsipatnam\'s Favourite Sweets Since 1969',
-      'Fresh Bakery Items Crafted Daily',
-      '150+ Happy Customers & Counting'
+      '65+ Years of Legacy — Since 1960',
+      'Three Generations of Pure Ghee Sweets',
+      '150+ Happy Customers & Counting',
+      'Narsipatnam\'s Most Loved Sweets Since 1960'
     ];
     let textIndex = 0;
 
